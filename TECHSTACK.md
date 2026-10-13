@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — أداة تدقيق المستندات قبل الإرسال
+# 🛠️ Technologies — Document Pre-Submission Audit Tool
 
 - Python
 - FastAPI

@@ -1,21 +1,20 @@
-# أداة تدقيق المستندات قبل الإرسال
-**Document Pre-Submission Audit Tool** · التصنيف: منصة تجارية
+# Document Pre-Submission Audit Tool
+**Document Pre-Submission Audit Tool** · Category: Commercial platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code is not included.
 
-## نبذة عن المشروع
-أداة تتحقق من النماذج والأختام والتواريخ والمرفقات المطلوبة قبل اعتماد أي ملف، فتقلل الأخطاء الإدارية بشكل واضح.
+## Project overview
+A tool that verifies forms, stamps, dates, and required attachments before any file is approved, thereby significantly reducing administrative errors.
 
-## أبرز النقاط
-- تحقق قائم على قواعد للنماذج والتواريخ والمرفقات
-- كشف وجود الأختام والتواقيع عبر OCR
-- قائمة فحص واضحة (نجاح/فشل) قبل الإرسال
+## Highlights
+- Rule-based validation for forms, dates, and attachments
+- Detection of stamps and signatures via OCR
+- Clear pre-submission checklist (pass/fail)
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business platforms developer: requirements analysis and building the system, admin panel, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies used
 Python, FastAPI, Tesseract OCR, PostgreSQL, React, Docker
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
